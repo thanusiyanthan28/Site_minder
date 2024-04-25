@@ -1,0 +1,26 @@
+
+.check-container{
+ width: 300px;
+ height: 500px;
+ background-color: black;
+ margin: auto;
+ display: flex;
+ 
+
+}
+.check-container2{
+    width: 250px;
+    height: 250px;
+    background-color: antiquewhite;
+    margin: auto auto;
+    margin-top: 20px !important;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.check-div {
+    width: 100%; /* Adjust width as needed */
+    height: auto; /* Adjust height as needed */
+    background-color: lightblue; /* Adjust background color as needed */
+ 
+  }
